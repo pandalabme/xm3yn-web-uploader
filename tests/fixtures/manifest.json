@@ -1,0 +1,21 @@
+{
+  "source": {
+    "file": "weather.png",
+    "sha256": "5c16a4ff4e0a12ec1a7ed6434d31d4016e3e13232791d61790ee566d7fc4553b"
+  },
+  "quantizedPreview": {
+    "file": "weather_quantized_preview.png",
+    "sha256": "382e2b76f8982e64e3c7be7b126b59aa68269c8327c779057a480f89bad0aeba"
+  },
+  "blackWhite": {
+    "file": "weather_black_white.bin",
+    "bytes": 5624,
+    "sha256": "16b9b92a8cf166e8767387673db055630654d414a56d268a7a100ccb7856ed4e"
+  },
+  "yellow": {
+    "file": "weather_yellow.bin",
+    "bytes": 5624,
+    "sha256": "0bf035725c69e51ab01f3f418fb7712a4f3e7249b4409adc72269d5d090bd0d9"
+  },
+  "generator": "../../../tools/make_xm3yn_nrf_macro.py"
+}
